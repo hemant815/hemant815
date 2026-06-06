@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Hemant Patidar 👋
 
-<!--
-**hemant815/hemant815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Artificial Intelligence)
 
-Here are some ideas to get you started:
+## About Me
+- AI/ML Enthusiast
+- Learning Deep Learning & Generative AI
+- Building NLP and Computer Vision Projects
+- Looking for AI/ML Internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Machine Learning
+- Deep Learning
+- PyTorch
+- FastAPI
+- Streamlit
+- NLP
+- Computer Vision
+
+## Featured Projects
+### 🚀 SnapClass AI Attendance System
+Face Recognition and Voice Authentication based attendance management system.
+
+### 🎨 Neural Style Transfer
+PyTorch implementation of Neural Style Transfer using VGG19 and AdaIN.
+
+### 📝 AI Text Summarizer
+Transformer-based text summarization using Hugging Face T5 and FastAPI.
+
+### 📊 SmartCart
+Customer segmentation using PCA, K-Means, and Hierarchical Clustering.
+
+## Connect With Me
+- GitHub: https://github.com/hemant815
+- LinkedIn: Add your LinkedIn profile link

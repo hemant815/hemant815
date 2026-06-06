@@ -33,4 +33,4 @@ Customer segmentation using PCA, K-Means, and Hierarchical Clustering.
 
 ## Connect With Me
 - GitHub: https://github.com/hemant815
-- LinkedIn: Add your LinkedIn profile link
+- LinkedIn: https://www.linkedin.com/in/hemant-patidar-900a69300
